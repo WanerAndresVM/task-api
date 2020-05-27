@@ -3,3 +3,4 @@ apps/task/__pycache__/
 apps/users/__pycache__/
 apps/users/migrations/
 apps/task/migrations/
+Schedule/__pycache__/
